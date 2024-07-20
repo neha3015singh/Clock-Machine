@@ -1,4 +1,8 @@
-# Clock-Machine
+# Portfolio
+A portfolio is a compilation of academic and professional materials that exemplifies your beliefs, skills qualifiaction, educations,
+trainings, and experiences.
 
-Display the time feature.
-A clock is a device that measures, indicates and keeps time.
+It provides insight into your personality and work ethics.
+
+
+
